@@ -9,5 +9,8 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",
     "vite": "^2.5.10"
+  },
+  "dependencies": {
+    "@ashtartekk/a-ui": "^1.0.0"
   }
 }
